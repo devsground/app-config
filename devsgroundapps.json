@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "forceUpdate": true,
+  "version": "1.0.1",
+  "forceUpdate": false,
   "message": "New apps available",
   "apps": [
     {
@@ -34,7 +34,7 @@
     {
       "name": "StreamBee - M3U8 Player",
       "imageUrl": "https://play-lh.googleusercontent.com/VyywLrH_ztpJeYlOs27Q-W172BF6lQG3TEhRUpasOwA_orFCpHyOHQh_KaTjz4HwDDjirH5vkyPEEFZjKcewr9A=w240-h480-rw",
-      "description": "StreamBee - M3U8 Player is a lightweight stream URL player. Add your own video links and play M3U8, HLS, DASH, and MP4 streams in a clean, fast player built for everyday use.",
+      "description": "A lightweight stream URL player. Add your own video links and play M3U8, HLS, DASH, and MP4 streams in a clean, fast player built for everyday use.",
       "packageName": "com.devsground.m3u8player",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devsground.m3u8player"
     }
