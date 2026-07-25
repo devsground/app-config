@@ -1,8 +1,15 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "forceUpdate": false,
   "message": "New apps available",
   "apps": [
+    {
+      "name": "Battery Information specs",
+      "imageUrl": "https://play-lh.googleusercontent.com/Rw-_xtU72whqXxldu4HD3R1uMEhuO3pq5YmeZwx_E_gxHV_SN-pglmug7ffhg57yPLQZKLm41ooHDcYmrmU4dfM=w240-h480-rw",
+      "description": "A utility app that displays battery information using system-provided information.",
+      "packageName": "com.devsground.batteryinformation",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devsground.batteryinformation"
+    },
     {
       "name": "IPTV Live - IPTV Player",
       "imageUrl": "https://play-lh.googleusercontent.com/lMeTH_3Y2bb0ZifAoByMrARYXgGKE_kQbfsPv00YDCvQTH-uoMqdfAG4D80qlSIuzw=s256-rw",
