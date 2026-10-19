@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "forceUpdate": false,
   "message": "New apps available",
   "apps": [
@@ -34,28 +34,28 @@
     {
       "name": "BDIX Servers - Test and Try",
       "imageUrl": "https://play-lh.googleusercontent.com/2_JT3GR7QdR6tMmmWTsjBU7aOr32YhpEDxDdCPBTvPsKj-66VQo0DIzGBgTBCqW0vbPC-lv_42PotKP13Qbc=w240-h480-rw",
-      "description": "Discover and test BDIX-supported servers with a simple, lightweight tool designed for local network users in Bangladesh.",
+      "description": "A lightweight tool to discover and test BDIX-supported servers for fast, reliable local network access in Bangladesh.",
       "packageName": "com.devsground.bdix",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devsground.bdix"
     },
     {
       "name": "StreamBee - M3U8 Player",
       "imageUrl": "https://play-lh.googleusercontent.com/VyywLrH_ztpJeYlOs27Q-W172BF6lQG3TEhRUpasOwA_orFCpHyOHQh_KaTjz4HwDDjirH5vkyPEEFZjKcewr9A=w240-h480-rw",
-      "description": "A lightweight stream URL player. Add your own video links and play M3U8, HLS, DASH, and MP4 streams in a clean, fast player built for everyday use.",
+      "description": "A lightweight streaming player for custom URLs, supporting M3U8, HLS, DASH, and MP4 in a clean, fast interface.",
       "packageName": "com.devsground.m3u8player",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devsground.m3u8player"
     },
     {
       "name": "Bijli - BD Bill Calculator",
       "imageUrl": "https://play-lh.googleusercontent.com/Wz5E-ophc0wnAoAvL3yCyBaF4Thv5rSJz9WuZRwD48PRswwj_lfd0Ug-xmZKHiDlcGJjuQZBUy4aCogyaIuE0Q=w240-h480-rw",
-      "description": "An independent, offline utility bill estimation and energy calculation app. It helps you estimate electricity costs, understand tariff structures, and explore energy-saving scenarios.",
+      "description": "An offline utility for estimating electricity bills, understanding tariffs, calculating energy usage, and exploring cost-saving scenarios.",
       "packageName": "com.devsground.electricitycalculator",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devsground.electricitycalculator"
     },
     {
       "name": "TreeTunes - Local Music Player",
       "imageUrl": "https://play-lh.googleusercontent.com/9nWgooqMhsTomjt44Aem4TPp4CA11DdPjg-iXeu0WO3F9LQagXRd60b8YzBt8pU528rIejj20N8hBkca7Q5I=w240-h480-rw",
-      "description": "An offline Android music player designed for local files, featuring a traditional folder-tree view to browse, organize, and play your music collection.",
+      "description": "An offline Android music player with a traditional folder-tree view to browse, organize, and play local music files.",
       "packageName": "com.devsground.treetunes",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devsground.treetunes"
     }
