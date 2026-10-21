@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "forceUpdate": false,
   "message": "New apps available",
   "apps": [
@@ -58,6 +58,20 @@
       "description": "An offline Android music player with a traditional folder-tree view to browse, organize, and play local music files.",
       "packageName": "com.devsground.treetunes",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devsground.treetunes"
+    },
+    {
+      "name": "Speedometer: GPS Speed & Trip",
+      "imageUrl": "https://lh3.googleusercontent.com/wiEc1rqvxFPpOF-gqlNPMBN7NoBA44BhI7EsiQBOLfEXwbN0B8IG6ueVg-1JFw6GGainAkVlU-tCkTQvQ28cEA",
+      "description": "GPS speedometer with trip history, route, speed alerts, gauge, HUD and a widget.",
+      "packageName": "com.devsground.gpsspeedometer",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devsground.gpsspeedometer"
+    },
+    {
+      "name": "Sound Meter: dB & Noise Level",
+      "imageUrl": "https://lh3.googleusercontent.com/GbaBVjOi4XY-Wt-yS-qWxHKR2wS7M0sQbZ4yNR9FrKLrduKPImeGqzMeCiESJDNCDVpV5g5lsgWHxExNdoPtQw",
+      "description": "Real-time decibel & sound level meter with live chart, alerts, and history.",
+      "packageName": "com.devsground.soundmeter",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devsground.soundmeter"
     }
   ]
 }
