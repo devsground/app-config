@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "forceUpdate": false,
   "message": "New apps available",
   "apps": [
@@ -33,7 +33,7 @@
     },
     {
       "name": "BDIX Servers - Test and Try",
-      "imageUrl": "https://play-lh.googleusercontent.com/2_JT3GR7QdR6tMmmWTsjBU7aOr32YhpEDxDdCPBTvPsKj-66VQo0DIzGBgTBCqW0vbPC-lv_42PotKP13Qbc=w240-h480-rw",
+      "imageUrl": "https://play-lh.googleusercontent.com/vanvWCKqAakmmwRkH67T4CXuyYhYxrYD34tOt8yKo7I8RT0o-nobEpsZ52Pd-AO7COM-b5KUe-bF4Ew3PInN_Q=w240-h480-rw",
       "description": "A lightweight tool to discover and test BDIX-supported servers for fast, reliable local network access in Bangladesh.",
       "packageName": "com.devsground.bdix",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.devsground.bdix"
